@@ -4,5 +4,5 @@
 
 ### 본인의 운을 시험해 보세요!
 
-##유튜브를 먼저 봐주세요!
-#링크 - https://www.youtube.com/watch?v=tYVP0sVqN-E
+## 유튜브를 먼저 봐주세요!
+# 링크 - https://www.youtube.com/watch?v=tYVP0sVqN-E
